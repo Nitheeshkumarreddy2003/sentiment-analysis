@@ -1,0 +1,5 @@
+{
+  "name": "Sentix: Public Opinion Surveillance Framework",
+  "description": "An advanced AI-driven sentiment analysis and public opinion monitoring system for E-Consultation modules, featuring toxicity detection, sarcasm identification, and real-time trend forecasting.",
+  "requestFramePermissions": []
+}
